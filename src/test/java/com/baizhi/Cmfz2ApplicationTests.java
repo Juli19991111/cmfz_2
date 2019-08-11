@@ -11,6 +11,7 @@ public class Cmfz2ApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("在网页上添加一行");
     }
 
 }
