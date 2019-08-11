@@ -13,6 +13,8 @@ public class Cmfz2ApplicationTests {
     public void contextLoads() {
         System.out.println("在网页上添加一行");
         System.out.println("在idea上添加一行");
+        System.out.println("在idea上添加一行");
+
     }
 
 }
